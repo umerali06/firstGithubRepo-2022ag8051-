@@ -14,3 +14,7 @@ Learn how to create new branches, switch between branches, and merge them in Git
 - Command:  
   ```bash
   git checkout -b feature-branch
+  ```
+
+## Note:
+  changes will made in the new branch named `branch2`

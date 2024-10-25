@@ -1,4 +1,6 @@
 # FirstGithubRepo:
 # Name : Umer Ali
-## Roll No: 2022-ag-8051
-## BSSE-5TH-B
+## Registration No: 2022-ag-8051
+## Degree: BSSE
+## Current Semester: 5th
+## Section: B

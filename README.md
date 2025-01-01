@@ -6,3 +6,5 @@
 ## Section: B
 ## Department: CS
 ## University: UAF
+
+# This is a comment, it will be ignored by the Python interpreter
